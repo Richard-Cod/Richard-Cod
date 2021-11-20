@@ -9,8 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="richard-bathiebo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="richard-bathiebo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="richard-bathiebo | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1637416782~hmac=e543f2189815cbed76ef82a3233f54d0" />][linkedin]
 
 
 <br />
