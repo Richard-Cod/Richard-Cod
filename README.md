@@ -27,13 +27,13 @@
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]
 
 #### Backend:
-
+[
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="Django" width="26px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
 
 <img align="left" alt="Symfony" width="26px" src="https://w3h7y6p9.stackpathcdn.com/wp-content/uploads/2017/03/symfony_logo_vertical.png" />
-
+]
 
 
 #### DATABASE:
