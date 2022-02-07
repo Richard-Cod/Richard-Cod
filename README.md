@@ -23,7 +23,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Vue js" width="26px" src="https://w7.pngwing.com/pngs/854/555/png-transparent-vue-js-hd-logo-thumbnail.png" />
+<img align="left" alt="Vue js" width="26px" src="https://www.vigicorp.fr/blog/wp-content/uploads/2019/03/logo_vue-1.png" />
 <img align="left" alt="Rest API" width="26px" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" />]
 
 #### Backend:
