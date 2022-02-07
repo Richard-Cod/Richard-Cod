@@ -2,7 +2,7 @@
 
 ## I'm a FullStack web and mobile developer !!
 
-- 🌱 I’m currently trying to master TDD & Hexagonal Architure 👨🏽‍💻 (software craftmanship)
+- 🌱 I’m currently trying to master TDD & Hexagonal Architecture 👨🏽‍💻 (software craftmanship)
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love cooking🧑🏽‍🍳 and playing basketball🏀
