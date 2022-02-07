@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="richard-bathiebo | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1637416782~hmac=e543f2189815cbed76ef82a3233f54d0" />][linkedin]
+[<img align="left" alt="richard-bathiebo | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
 
 
 <br />
