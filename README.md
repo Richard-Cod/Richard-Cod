@@ -30,10 +30,10 @@
 #### Backend:
 
 
-[
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Django" width="26px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
-<img align="left" alt="Symfony" width="26px" src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" />]
+<img align="left" alt="Symfony" width="26px" src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" />
 
 
 #### DATABASE:
