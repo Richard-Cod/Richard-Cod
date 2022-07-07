@@ -25,6 +25,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Vue js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" />
 <img align="left" alt="Rest API" width="26px" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" />
+<br />
 
 #### Backend:
 
